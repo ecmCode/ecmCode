@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am learning React and other frontend frameworks and some backend stuffs.
 
 These are some projects I have done so far:
 - [Todolist](https://ecmcode.github.io/todolist/)
