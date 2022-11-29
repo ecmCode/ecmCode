@@ -7,7 +7,6 @@ About Myself:
 - 🌱 I’m currently learning React, Redux, Tailwind CSS, Next.js, Flask, Django etc
 - 🤔 I’m looking for help with building some cool looking website pages for free (tip is also accepted!)
 - 😄 Pronouns: Frontend/Developer
-- ⚡ Fun fact: Every 60 seconds in Github a minute passes
 
 
 These are some projects I have done so far:
