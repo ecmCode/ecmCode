@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am learning React and other frontend frameworks and some backend stuffs.
 
@@ -21,7 +21,6 @@ These are some projects I have done so far:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmCode&layout=compact)](https://github.com/ecmCode/github-readme-stats)
 <br />
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecmCode)](https://github.com/ecmCode/github-readme-stats)
-
 
 
 <!--
