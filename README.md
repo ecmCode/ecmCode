@@ -9,6 +9,12 @@ These are some projects I have done so far:
 - [404 Not Found](https://ecmcode.github.io/404/)
 - [Clock](https://ecmcode.github.io/clock/)
 
+- 🔭 I’m currently working on any frontend project to build my portfolio
+- 🌱 I’m currently learning React, Redux, Tailwind CSS, Next.js, Django
+- 🤔 I’m looking for help with building some cool looking website pages for free (tip is also accepted!)
+- 😄 Pronouns: Frontend/Developer
+- ⚡ Fun fact: Every 60 seconds in Github a minute passes
+
 <!--
 **ecmCode/ecmCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
