@@ -4,7 +4,7 @@ I am learning React and other frontend frameworks and some backend stuffs.
 
 About Myself:
 - 🔭 I’m currently working on any frontend project to build my portfolio
-- 🌱 I’m currently learning React, Redux, Tailwind CSS, Next.js, Django
+- 🌱 I’m currently learning React, Redux, Tailwind CSS, Next.js, Flask, Django etc
 - 🤔 I’m looking for help with building some cool looking website pages for free (tip is also accepted!)
 - 😄 Pronouns: Frontend/Developer
 - ⚡ Fun fact: Every 60 seconds in Github a minute passes
