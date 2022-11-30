@@ -15,7 +15,7 @@ These are some projects I have done so far:
 - [Blogger website](https://ecmcode.github.io/blogger/)
 - [404 Not Found](https://ecmcode.github.io/404/)
 - [Clock](https://ecmcode.github.io/clock/)
-
+- [Landing Page](https://ecmcode.github.io/landing-page/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmCode&layout=compact)](https://github.com/ecmCode/github-readme-stats)
 <br />
