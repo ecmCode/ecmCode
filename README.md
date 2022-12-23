@@ -8,6 +8,15 @@ About Myself:
 - 🤔 I’m offering help with building some cool looking website pages and some backend stuffs
 - 😄 Pronouns: Frontend/Developer
 
+Stacks:
+<br/>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 These are some projects I have done so far:
 - [Portfolio](https://ecmcode.github.io/portfolio/)
@@ -20,7 +29,6 @@ These are some projects I have done so far:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecmCode)](https://github.com/ecmCode/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmCode&layout=compact)](https://github.com/ecmCode/github-readme-stats)
-
 
 <!--
 **ecmCode/ecmCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
