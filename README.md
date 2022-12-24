@@ -1,6 +1,9 @@
 # Hi there 👋
 
-I am learning React and other frontend frameworks and some backend stuffs.
+[![My CodeSandbox](https://img.shields.io/badge/My%20Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB&)](https://codesandbox.io/u/ecmCode)
+<br/>
+I am self taught frontend developer and I have been coding since 2019. 
+Recently I focus on React and other frontend frameworks and some backend stuffs.
 
 About Myself:
 - 🔭 I’m currently working on any frontend project I can think of to build my portfolio
