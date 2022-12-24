@@ -20,7 +20,6 @@ Recently I focus on React and other frontend frameworks and some backend stuffs.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 These are some projects I have done so far:
 - [Portfolio](https://ecmcode.github.io/portfolio/)
 - [Todolist](https://ecmcode.github.io/todolist/)
@@ -29,9 +28,10 @@ These are some projects I have done so far:
 - [Clock](https://ecmcode.github.io/clock/)
 - [Landing Page](https://ecmcode.github.io/landing-page/)
 
+### Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecmCode)](https://github.com/ecmCode/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmCode&layout=compact)](https://github.com/ecmCode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmCode)](https://github.com/ecmCode/github-readme-stats)
 
 <!--
 **ecmCode/ecmCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
