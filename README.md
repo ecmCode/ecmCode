@@ -2,13 +2,19 @@
 
 [![My CodeSandbox](https://img.shields.io/badge/My%20Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB&)](https://codesandbox.io/u/ecmCode)
 <br/>
-I am self taught frontend developer and I have been coding since 2019. 
-Recently I focus on React and other frontend frameworks and some backend stuffs.
+
+I am Lee, a self taught frontend developer with a great enthusiasm for building awesome things whilst learning 😎
+<br/>
+
+I started programming since 2019 - first language was Python 🐍
+<br/>
+
+Recently I focus on React - but I am also open to other frontend technologies ⚛️
 
 ### About Myself:
 - 🔭 I’m currently working on any frontend project I can think of to build my portfolio
 - 🌱 I’m currently learning React, Vue, Tailwind CSS, Firebase, Flask, SQL etc
-- 🤔 I’m offering help with building some cool looking website pages and some backend stuffs
+- 🤔 I’m offering help with building some cool looking websites and apps easiest way possible
 - 😄 Pronouns: Frontend/Developer
 
 ### Stacks:
