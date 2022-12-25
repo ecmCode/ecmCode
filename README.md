@@ -28,11 +28,13 @@ Recently I focus on React - but I am also open to other frontend technologies âš
 
 These are some projects I have done so far:
 - [Portfolio](https://ecmcode.github.io/portfolio/)
-- [Todolist](https://ecmcode.github.io/todolist/)
+- [Landing Page 1](https://ecmcode.github.io/landing-page/)
+- [Landing Page 2](https://ecmcode.github.io/landing-page-2/)
 - [Blogger website](https://ecmcode.github.io/blogger/)
+- [Todolist](https://ecmcode.github.io/todolist/)
 - [404 Not Found](https://ecmcode.github.io/404/)
 - [Clock](https://ecmcode.github.io/clock/)
-- [Landing Page](https://ecmcode.github.io/landing-page/)
+
 
 ### Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecmCode)](https://github.com/ecmCode/github-readme-stats)
