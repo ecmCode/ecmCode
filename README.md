@@ -1,7 +1,9 @@
 # Hi there 👋
 
 [![My CodeSandbox](https://img.shields.io/badge/My%20Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB&)](https://codesandbox.io/u/ecmCode)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ecmcode)
 <br/>
+
 
 I am Lee, a self taught frontend developer with a great enthusiasm for building awesome things whilst learning 😎
 <br/>
