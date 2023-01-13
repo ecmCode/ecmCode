@@ -38,11 +38,11 @@ These are some projects I have done so far:
 - [Clock](https://ecmcode.github.io/clock/)
 
 
-### Stats:
+<!-- ### Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecmCode)](https://github.com/ecmCode/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmCode)](https://github.com/ecmCode/github-readme-stats)
-
+ -->
 <!--
 **ecmCode/ecmCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
