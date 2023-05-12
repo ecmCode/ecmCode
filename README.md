@@ -16,13 +16,14 @@ I am Lee, a self taught frontend developer with a great enthusiasm for building 
 I started programming since 2019 - first language was Python 🐍
 <br/>
 
-Recently I focus on React - but I am also open to other frontend technologies ⚛️
+Recently I focus on React + Typescript + Next.js.
+My goal is to master the MERN stack.
+I am open to learning other frontend/backend technologies as well.
 
 ### About Myself:
 - 🔭 I’m currently working on any frontend project I can think of to build my portfolio
-- 🌱 I’m currently learning React, Vue, Tailwind CSS, Firebase, Flask, SQL etc
+- 🌱 I’m currently learning React, Typescript, Firebase, SQL etc
 - 🤔 I’m offering help with building some cool looking websites and apps easiest way possible
-- 😄 Pronouns: Frontend/Developer
 
 ### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmCode)](https://github.com/ecmCode/github-readme-stats)
